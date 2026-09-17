@@ -31,6 +31,28 @@ O **LocalLift AI** é um SaaS em desenvolvimento que propõe:
 
 O projeto está em preparação para um beta controlado. A interface e a estrutura dos módulos estão desenvolvidas, enquanto o Health Score, o agente de IA e a análise de concorrentes ainda precisam ser validados. Integrações reais com serviços do Google, provedor de IA, pagamentos e e-mails permanecem pendentes.
 
+## LocalLift AI na prática
+
+As telas abaixo apresentam o protótipo utilizado como estudo de caso. Os dados exibidos são demonstrativos e não representam resultados garantidos.
+
+### Página inicial
+
+Apresentação da proposta de valor do LocalLift AI para empresas locais.
+
+![Landing page do LocalLift AI](assets/locallift/landing-page.png)
+
+### Agente IA
+
+Interface do consultor de SEO local, projetada para transformar diagnósticos em orientações acessíveis. O recurso permanece em validação.
+
+![Agente IA do LocalLift AI](assets/locallift/agente-ia.png)
+
+### Análise de concorrentes
+
+Comparação regional demonstrativa para identificar diferenças e oportunidades. As pontuações e empresas exibidas são exemplos de teste.
+
+![Análise de concorrentes do LocalLift AI](assets/locallift/analise-concorrentes.png)
+
 ## Conteúdos produzidos no caderno
 
 - síntese central;
