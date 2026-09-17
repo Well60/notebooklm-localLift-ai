@@ -46,8 +46,21 @@ O projeto está em preparação para um beta controlado. A interface e a estrutu
 - [Síntese do estudo](docs/sintese.md)
 - [Análise crítica](docs/analise-critica.md)
 - [Glossário](docs/glossario.md)
+- [Perguntas estratégicas](docs/perguntas-estrategicas.md)
+- [Teste de fundamentação](docs/teste-fundamentacao.md)
 - [Prompts utilizados](prompts/prompts-utilizados.md)
 - [Fontes consultadas](fontes/fontes-utilizadas.md)
+- [Documento-base do estudo de caso](documentos/LocalLift_AI_Estudo_de_Caso.docx)
+
+## Mapas mentais
+
+### IA generativa e presença digital local
+
+![Mapa mental sobre IA generativa, SEO e presença digital local](assets/mapa-mental-ia-seo-local.png)
+
+### Estrutura e validação do LocalLift AI
+
+![Mapa mental sobre arquitetura, estágio e validação do LocalLift AI](assets/mapa-mental-locallift-ai.png)
 
 ## Principais conclusões
 
