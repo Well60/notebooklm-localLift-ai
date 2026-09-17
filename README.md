@@ -51,6 +51,13 @@ O projeto está em preparação para um beta controlado. A interface e a estrutu
 - [Prompts utilizados](prompts/prompts-utilizados.md)
 - [Fontes consultadas](fontes/fontes-utilizadas.md)
 - [Documento-base do estudo de caso](documentos/LocalLift_AI_Estudo_de_Caso.docx)
+- [Resumo em áudio do NotebookLM](audio/resumo-audio-locallift-ai.mp3)
+
+## Resumo em áudio
+
+O NotebookLM também produziu uma conversa em áudio sobre como a IA pode traduzir informações do Google para pequenos lojistas.
+
+**[Ouvir ou baixar o resumo em áudio](audio/resumo-audio-locallift-ai.mp3)** — duração aproximada de 21 minutos.
 
 ## Mapas mentais
 
