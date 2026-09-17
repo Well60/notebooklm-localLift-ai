@@ -2,11 +2,28 @@
 
 Projeto desenvolvido como parte de um desafio da [DIO](https://www.dio.me/) para criar um caderno temático no NotebookLM, selecionar fontes confiáveis e produzir conhecimento fundamentado nelas.
 
-## Tema
+## Contexto e objetivos de estudo
 
-**IA generativa aplicada à presença digital de negócios locais: o LocalLift AI como estudo de caso.**
+O tema escolhido foi **“IA generativa aplicada à presença digital de negócios locais: o LocalLift AI como estudo de caso”**. A escolha une dois campos diretamente relacionados aos meus estudos e projetos: o uso responsável de inteligência artificial generativa e o desenvolvimento de soluções digitais voltadas a problemas reais de pequenos empreendedores.
 
-O projeto investiga como a IA generativa pode interpretar dados de presença digital, explicar problemas em linguagem acessível e sugerir ações priorizadas para pequenos negócios, sem substituir a decisão humana.
+Negócios locais dependem da Pesquisa e do Google Maps para serem encontrados por clientes, mas a gestão do Perfil da Empresa exige informações corretas, acompanhamento de avaliações, interpretação de métricas e respeito às diretrizes da plataforma. Para muitos empreendedores, esses processos são técnicos, dispersos e difíceis de transformar em ações práticas.
+
+Nesse contexto, o LocalLift AI foi adotado como objeto de estudo por propor uma camada de interpretação entre os dados de presença digital e o gestor do negócio. O foco do caderno não foi promover o produto, mas analisar criticamente como a IA pode explicar diagnósticos, organizar prioridades e apoiar decisões sem substituir a revisão humana.
+
+### Objetivo geral
+
+Investigar como a IA generativa pode apoiar a gestão da presença digital de negócios locais, utilizando fontes confiáveis e o LocalLift AI como estudo de caso prático.
+
+### Objetivos específicos
+
+- compreender os conceitos fundamentais de IA generativa e modelos de linguagem;
+- identificar os fatores que influenciam a classificação local no Google;
+- analisar como dados técnicos podem ser convertidos em orientações acessíveis;
+- diferenciar funcionalidades estruturadas, recursos em validação e integrações pendentes do LocalLift AI;
+- avaliar riscos como alucinações, vieses, uso de dados insuficientes e recomendações incompatíveis com diretrizes oficiais;
+- reforçar a importância da transparência, da privacidade e da revisão humana;
+- testar a capacidade do NotebookLM de gerar respostas fundamentadas e rastreáveis;
+- produzir um miniguia reutilizável com síntese, glossário, análise crítica e prompts de estudo.
 
 ## Caderno no NotebookLM
 
@@ -90,6 +107,28 @@ O NotebookLM também produziu uma conversa em áudio sobre como a IA pode traduz
 ### Estrutura e validação do LocalLift AI
 
 ![Mapa mental sobre arquitetura, estágio e validação do LocalLift AI](assets/mapa-mental-locallift-ai.png)
+
+## Dificuldades, iterações e aprendizados
+
+A construção do caderno foi um processo iterativo. As primeiras consultas mostraram que uma resposta bem escrita nem sempre apresenta automaticamente as citações da forma esperada. Como a conversa existente não podia ser reiniciada naquele momento, foi necessário reformular as instruções dentro do mesmo contexto, pedindo que o NotebookLM respondesse exclusivamente com base nas fontes selecionadas e informasse explicitamente quais documentos sustentavam cada resposta.
+
+Também foi necessário melhorar progressivamente os prompts. Perguntas muito amplas geravam respostas corretas, porém genéricas. Os melhores resultados surgiram quando os comandos passaram a definir uma estrutura, separar fatos de possibilidades futuras e exigir distinção entre funcionalidades desenvolvidas, recursos em validação e integrações pendentes.
+
+Outro cuidado importante foi evitar que o caderno apresentasse o LocalLift AI como um produto comercial finalizado. O protótipo possui interface e módulos estruturados, mas o Health Score, o agente de IA e a análise de concorrentes ainda dependem de validação com dados reais. As integrações de produção também permanecem pendentes. Essa distinção aumentou a precisão da análise e reduziu o risco de conclusões exageradas.
+
+Durante o compartilhamento, foi identificada a diferença entre o link de visualização de uma conversa e o endereço do caderno completo. O link correto foi testado externamente e inserido no repositório com a observação de que o visitante precisa entrar em uma Conta Google.
+
+Por fim, a organização no GitHub demonstrou que uma boa entrega não depende apenas do texto final. Foi necessário estruturar os documentos, nomear arquivos de forma clara, registrar as fontes, disponibilizar os prompts, incluir os mapas mentais, otimizar o áudio e apresentar evidências visuais do estudo de caso.
+
+### Principais aprendizados
+
+- prompts específicos produzem respostas mais verificáveis;
+- citações e referências precisam ser solicitadas e conferidas;
+- respostas de IA não devem ser aceitas sem revisão crítica;
+- dados demonstrativos precisam ser claramente identificados;
+- funcionalidades em validação não devem ser apresentadas como concluídas;
+- a revisão humana continua necessária antes de qualquer decisão ou publicação;
+- a organização dos artefatos facilita a reutilização e a avaliação do conhecimento produzido.
 
 ## Principais conclusões
 
