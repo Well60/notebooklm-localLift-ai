@@ -10,7 +10,8 @@ O projeto investiga como a IA generativa pode interpretar dados de presença dig
 
 ## Caderno no NotebookLM
 
-> **Link do caderno completo:** aguardando o endereço público correto.
+> **[Acessar o caderno completo no NotebookLM](https://notebook.google.com/notebook/1b1854c7-615a-4628-a8b4-de872ef1f15f)**  
+> É necessário entrar em uma Conta Google para visualizar o notebook.
 
 ## Problema estudado
 
