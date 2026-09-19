@@ -7,7 +7,7 @@
 - [Orientações sobre conteúdo gerado com IA](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content?hl=pt-br)
 - [Políticas de spam da Pesquisa Google](https://developers.google.com/search/docs/essentials/spam-policies?hl=pt-br)
 - [Criação de conteúdo útil, confiável e que prioriza as pessoas](https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=pt-br)
-- *What is Artificial Intelligence (AI)?* — Google Cloud.
+- [What is Artificial Intelligence (AI)?](https://cloud.google.com/learn/what-is-artificial-intelligence) — Google Cloud.
 
 ## NIST
 
@@ -16,7 +16,7 @@
 
 ## Lovable
 
-- *How to build a real product with Lovable* — documentação oficial do Lovable.
+- [How to build a real product with Lovable](https://docs.lovable.dev/tips-tricks/from-idea-to-app) — documentação oficial do Lovable.
 
 ## Fonte autoral
 
